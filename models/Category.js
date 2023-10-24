@@ -4,6 +4,7 @@ const sequelize = require('../config/connection.js');
 
 class Category extends Model { }
 
+
 Category.init(
     {
         // define columns
@@ -13,10 +14,10 @@ Category.init(
             primaryKey: true,
             autoIncrement: true,
         },
-        catgory_name: {
+        category_name: {
             type: DataTypes.STRING,
             allowNull: false,
-        },
+        }
     },
     {
         sequelize,
