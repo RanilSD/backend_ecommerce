@@ -29,7 +29,10 @@ With the help of my collegues. This is a back end build for an e-commerce site u
 - Once that is done open up the local host url through insomnia and run the different api routes to check the data.
 
 ## Demo
-[ecommerce_module_13.webm](https://github.com/RanilSD/backend_ecommerce/assets/139150974/f8b9e14c-a786-4d6e-8b7c-58493e03f33e)
+- [ecommerce_module_13.webm](https://github.com/RanilSD/backend_ecommerce/assets/139150974/f8b9e14c-a786-4d6e-8b7c-58493e03f33e)
+
+- [post_put_delete_demo.webm](https://github.com/RanilSD/backend_ecommerce/assets/139150974/48a2e712-eedd-4168-ab84-4b54e744ae36)
+
 
 ## Questions
 
